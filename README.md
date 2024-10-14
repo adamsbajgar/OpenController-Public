@@ -1,4 +1,4 @@
-# Official OpenController Repo
+![20241013_191957](https://github.com/user-attachments/assets/b5f9bc12-afd1-4804-8d1e-3fa41af6961f)# Official OpenController Repo
 OpenController is an open-source, arduino-based controller. I created it as a practice project for electronics and Python.
 You can replicate this project, but I would recommend 3D printing and Python knowledge, as I will not be holding your hand beyond the basics, even though everything is very self-explanatory. Keep in mind that it is a retro-style controller, with only a joystick and four buttons, so it is only ideal for 2D games.
 
@@ -16,4 +16,6 @@ I have designed the casing to require no glue or screws; it all snaps together. 
 
 1x Arduino Uno, 1x PS2 Joystick, 1x Mini Breadboard, 6x M-F Jumper Wires, 5x M-M Jumper Wires, 4x [Large Button.](https://dratek.cz/arduino/51540-sada-25-tlacitek-s-klobouckem-pro-arduino.html?gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUml_egRMIRf2p1JnSM8FwFwj0xu_ihA7Mek4BJJZqU5DG4Dg1_uwK4aAiw_EALw_wcB)
 
-The circuit wiring is very easy, it is as simple as 
+The circuit wiring is very simple; it is as simple as connecting the correct pins on the joystick side and only requires a very simple circuit on the buttons side. Here are closer-up images of the [joystick side](https://ibb.co/fYb3rfb) and the [button side.](https://ibb.co/fFZ69Yt)
+
+![20241014_093256](https://github.com/user-attachments/assets/a2cb2cf1-75ce-4f66-b78b-7ce3f68d77d4)
