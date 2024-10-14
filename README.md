@@ -19,3 +19,9 @@ I have designed the casing to require no glue or screws; it all snaps together. 
 The circuit wiring is very simple; it is as simple as connecting the correct pins on the joystick side and only requires a very simple circuit on the buttons side. Here are closer-up images of the [joystick side](https://ibb.co/fYb3rfb) and the [button side.](https://ibb.co/fFZ69Yt)
 
 ![20241014_093256](https://github.com/user-attachments/assets/a2cb2cf1-75ce-4f66-b78b-7ce3f68d77d4)
+
+If you have any urgent questions, please feel free to reach out to me.
+
+Happy building!
+
+~Adam
