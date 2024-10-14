@@ -13,6 +13,7 @@ I have designed the casing to require no glue or screws; it all snaps together. 
 ## Circuit Wiring & Components
 
 **My build requires the following components:**
+
 1x Arduino Uno, 1x PS2 Joystick, 1x Mini Breadboard, 6x M-F Jumper Wires, 5x M-M Jumper Wires, 4x [Large Button.](https://dratek.cz/arduino/51540-sada-25-tlacitek-s-klobouckem-pro-arduino.html?gad_source=1&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUml_egRMIRf2p1JnSM8FwFwj0xu_ihA7Mek4BJJZqU5DG4Dg1_uwK4aAiw_EALw_wcB)
 
 The circuit wiring is very easy, it is as simple as 
