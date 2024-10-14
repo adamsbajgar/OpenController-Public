@@ -1,5 +1,5 @@
 # Official OpenController Repo
-The OpenController Mini is an open-source, arduino-based controller. I created it as a practice project for electronics, Python and 3D Printing.
+The OpenController Mini is an open-source, arduino-based controller. I created it as a practice project for electronics, Python and 3D Printing. And also because I wanted to play Blasphemous with it.
 You can replicate this project, but I would recommend 3D printing and Python knowledge, as I will not be holding your hand beyond the basics, even though everything is very self-explanatory. Keep in mind that it is a retro-style controller, with only a joystick and four buttons, so it is only ideal for 2D games.
 
 ![OCM VIZ](https://github.com/user-attachments/assets/c6f58a39-a297-48e4-ac0e-a1a6726f4c17)
